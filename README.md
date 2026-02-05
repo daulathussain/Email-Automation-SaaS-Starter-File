@@ -1,8 +1,8 @@
 # Email Automation SaaS
 
-![alt text]()
+![alt text](https://www.daulathussain.com/wp-content/uploads/2026/02/Create-Your-Own-Email-Automation-SaaS-Using-Next.js-Google-Auth-Email-API-Full-SaaS-Project.jpeg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-your-own-email-automation-saas-using-next.js-google-auth-and-email-api-or-full-saas-project)
 
 #### Setup Video
 
